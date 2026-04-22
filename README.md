@@ -5,12 +5,10 @@
 📩 anantchaturvedi74@gmail.com — open to collaboration, projects & tech discussions 🚀
 
 - 🔭 **I’m currently working on:** Full-stack apps with React.js, Next.js, Node.js, Express.js, MongoDB & Redis — focused on performance and scalable architecture 
-- 🌱 **I’m currently learning:** System Design, AWS (beyond EC2), and advanced caching strategies
+- 🌱 **I’m currently learning:** System Design, AWS and advanced caching strategies
 - 👯 **I’m looking to collaborate on:**  Full-stack web apps, REST API design, and performance-heavy frontend projects 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** React.js, Next.js, Redux Toolkit, Node.js, MongoDB, Redis, REST APIs, AWS EC2
 - 😄 **Pronouns:**  He/Him
-- ⚡ **Fun fact:** I optimized an API response time by 25% using Redis — then immediately went looking for the next bottleneck 😄 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chaturvedianant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anant67chaturvedi@gmail.com) 
 
