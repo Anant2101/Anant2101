@@ -4,7 +4,7 @@
 
 📩 anantchaturvedi74@gmail.com — open to collaboration, projects & tech discussions 🚀
 
-- 🔭 **I’m currently working on:** Full-stack apps with React.js, Node.js, Express.js, MongoDB & Redis — focused on performance and scalable architecture 
+- 🔭 **I’m currently working on:** Full-stack apps with React.js, Next.js, Node.js, Express.js, MongoDB & Redis — focused on performance and scalable architecture 
 - 🌱 **I’m currently learning:** System Design, AWS (beyond EC2), and advanced caching strategies
 - 👯 **I’m looking to collaborate on:**  Full-stack web apps, REST API design, and performance-heavy frontend projects 
 - 💬 **Ask me about:** Collaboration, Tech Support
